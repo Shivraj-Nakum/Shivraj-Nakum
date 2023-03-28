@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivraj-nakum&label=Profile%20views&color=0e75b6&style=flat" alt="shivraj-nakum" /> </p>
 -->
 
+<h1 align="left">Hi 👋, I'm SHIVRAJ NAKUM</h1>
+---
+
 # 💫 About Me:
  🎓 I am a student with huge passion for Computer Science and Mathematics.<br>Currently busy exploring tech.
 
@@ -59,7 +62,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Shivraj-Nakum&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shivraj-Nakum&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivraj-nakum&label=Profile%20views&color=0e75b6&style=flat" alt="shivraj-nakum" /> </p>
 
