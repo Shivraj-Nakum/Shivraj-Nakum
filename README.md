@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi 👋, I'm SHIVRAJ NAKUM</h1>
----
 
 # 💫 About Me:
  🎓 I am a student with huge passion for Computer Science and Mathematics.<br>Currently busy exploring tech.
