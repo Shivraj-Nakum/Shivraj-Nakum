@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivraj-Nakum&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
-
+## 🎗️ Badges
 [![An image of @shivrajnakum's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivrajnakum)](https://holopin.io/@shivrajnakum)
 
 
